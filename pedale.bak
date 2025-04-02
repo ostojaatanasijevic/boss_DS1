@@ -110,7 +110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "pedale:tube_screamer_front_plate"
+		(property "Footprint" "pedale:boss_DS1_front_plate"
 			(at 0 0 0)
 			(effects
 				(font
