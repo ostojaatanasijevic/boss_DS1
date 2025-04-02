@@ -21,13 +21,13 @@
     },
     "selection_filter": {
       "dimensions": false,
-      "footprints": false,
+      "footprints": true,
       "graphics": false,
       "keepouts": false,
       "lockedItems": true,
       "otherItems": false,
       "pads": false,
-      "text": true,
+      "text": false,
       "tracks": false,
       "vias": false,
       "zones": false
@@ -62,7 +62,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "tube_screamer.kicad_prl",
+    "filename": "boss_DS1.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -91,16 +91,16 @@
       9
     ],
     "col_widths": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      1089
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

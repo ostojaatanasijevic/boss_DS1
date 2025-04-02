@@ -1,7 +1,7 @@
-# Tube screamer clone
+# Boss DS1 clone
 
-![side_view](tube_screamer_side.png)
-![top_view](tube_screamer_top.png)
+![side_view](boss_DS1.png)
+![top_view](boss_DS1.png)
 
 ## Schematic
-![schematic](tube_screamer.svg)
+![schematic](boss_DS1.svg)
