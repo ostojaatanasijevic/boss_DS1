@@ -267,7 +267,7 @@
 		(uuid "16662cc6-75e7-441e-ba07-f39b8cc8edc3")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/pedale.pretty/Jack_6.35mm.STEP"
+	(model "${KIPRJMOD}/../pedale.pretty/Jack_6.35mm.STEP"
 		(offset
 			(xyz 17 -8 0)
 		)
