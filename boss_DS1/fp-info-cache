@@ -1,4 +1,4 @@
-31396878921845
+45418606719299
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99547,6 +99547,20 @@ mounting hole 3.2mm m3 iso14580
 3
 1
 pedale
+TI logo
+
+
+0
+0
+0
+pedale
+TI logo large
+
+
+0
+0
+0
+pedale
 big_muff_pi_front_plate
 
 
@@ -99555,6 +99569,20 @@ big_muff_pi_front_plate
 0
 pedale
 boss_DS1_front_plate
+
+
+0
+0
+0
+pedale
+bottom_connector
+Through hole straight pin header, 1x16, 1.27mm pitch, single row
+Through hole pin header THT 1x16 1.27mm single row
+0
+16
+16
+pedale
+bottom_plate
 
 
 0
@@ -99603,6 +99631,20 @@ switch DPDT
 6
 6
 pedale
+front_plate
+
+
+0
+0
+0
+pedale
+green_led
+
+
+0
+2
+2
+pedale
 plated_pot_hole
 Mounting Hole 6.5mm
 mounting hole 6.5mm
@@ -99617,12 +99659,26 @@ mounting hole 6.5mm
 1
 1
 pedale
+red_led
+
+
+0
+2
+2
+pedale
 switch_DPDT
 C&K sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
 switch DPDT
 0
 6
 6
+pedale
+top_plate_pot
+Potentiometer, vertical, bottom-adjust, single slot, Bourns 3314R-1, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer vertical hole Bourns 3314R-1
+0
+3
+3
 pedale
 top_screw
 
