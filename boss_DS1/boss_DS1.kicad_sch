@@ -9713,8 +9713,7 @@
 	)
 	(symbol
 		(lib_id "pedale:top_panel_connector")
-		(at 266.7 48.26 0)
-		(mirror y)
+		(at 266.7 48.26 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9722,7 +9721,7 @@
 		(dnp no)
 		(uuid "3a37b6cc-ac65-4bf2-9e89-3cc1c521a7cc")
 		(property "Reference" "J1"
-			(at 265.684 39.878 0)
+			(at 265.684 56.642 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9731,7 +9730,7 @@
 			)
 		)
 		(property "Value" "top_panel_connector"
-			(at 264.16 53.34 0)
+			(at 264.16 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9758,7 +9757,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 280.67 87.884 0)
+			(at 280.67 8.636 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11190,6 +11189,118 @@
 		)
 	)
 	(symbol
+		(lib_id "pedale:top_panel_connector")
+		(at 208.28 52.07 0)
+		(mirror y)
+		(unit 3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5b61cd87-79e2-402a-9b2a-16ae8aad3c97")
+		(property "Reference" "J1"
+			(at 207.264 43.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "top_panel_connector"
+			(at 205.74 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
+			(at 208.28 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 222.25 91.694 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "14"
+			(uuid "a6d6c805-75fc-4aa4-8984-a0390cd43e9d")
+		)
+		(pin "1"
+			(uuid "642a31f6-5931-4629-bf28-f3cc23ac90ab")
+		)
+		(pin "8"
+			(uuid "7263ee38-a7ad-413d-84a4-508c15a10f93")
+		)
+		(pin "13"
+			(uuid "ee7db142-ff4e-482f-b464-f20280efadb8")
+		)
+		(pin "10"
+			(uuid "2d90d543-df2a-4ebb-8475-a7c76f1a1c1c")
+		)
+		(pin "4"
+			(uuid "179ba0a2-61e4-4582-9070-198c61c06bde")
+		)
+		(pin "3"
+			(uuid "4ad86c8b-e3d8-4cb8-9091-d75202de17c8")
+		)
+		(pin "16"
+			(uuid "14adc97c-6e8e-400c-86dc-77423ee3c482")
+		)
+		(pin "2"
+			(uuid "7f5a55c4-ace2-4c9d-bae1-e43d4b8059e2")
+		)
+		(pin "12"
+			(uuid "7b2af7f5-c1a3-4136-8cd9-e66f1af0a5ed")
+		)
+		(pin "9"
+			(uuid "4bfe3273-d5ff-43e1-bfa5-d2bd595991a2")
+		)
+		(pin "7"
+			(uuid "a4f83c0b-a718-408c-a48d-a9b55684b3dd")
+		)
+		(pin "11"
+			(uuid "c0dc282c-088c-4f19-8bd8-e83b560fb994")
+		)
+		(pin "15"
+			(uuid "e0d01856-8ba7-4d63-bdf3-b46418e3b9cb")
+		)
+		(pin "6"
+			(uuid "58aabcaa-5d67-4131-bda7-8010b20151e2")
+		)
+		(pin "5"
+			(uuid "26593db5-5822-46b4-9b89-d5d3bf6a8b3f")
+		)
+		(instances
+			(project "boss_DS1"
+				(path "/e0801131-6974-42d8-8070-4ed960891aa7"
+					(reference "J1")
+					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "pedale:boss_DS1_front_panel")
 		(at 242.57 161.29 0)
 		(unit 1)
@@ -11392,117 +11503,6 @@
 				(path "/e0801131-6974-42d8-8070-4ed960891aa7"
 					(reference "R32")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "pedale:top_panel_connector")
-		(at 208.28 52.07 180)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5fe8932d-87aa-4641-b205-6b7734ebb5ff")
-		(property "Reference" "J1"
-			(at 207.264 60.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "top_panel_connector"
-			(at 205.74 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
-			(at 208.28 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 208.28 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 222.25 12.446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "14"
-			(uuid "98d0747c-69a8-45ae-a287-46b8b35f1f4a")
-		)
-		(pin "1"
-			(uuid "642a31f6-5931-4629-bf28-f3cc23ac90ab")
-		)
-		(pin "8"
-			(uuid "7263ee38-a7ad-413d-84a4-508c15a10f93")
-		)
-		(pin "13"
-			(uuid "ee7db142-ff4e-482f-b464-f20280efadb8")
-		)
-		(pin "10"
-			(uuid "2d90d543-df2a-4ebb-8475-a7c76f1a1c1c")
-		)
-		(pin "4"
-			(uuid "179ba0a2-61e4-4582-9070-198c61c06bde")
-		)
-		(pin "3"
-			(uuid "4ad86c8b-e3d8-4cb8-9091-d75202de17c8")
-		)
-		(pin "16"
-			(uuid "28940a60-8e5b-4d25-ba67-0ad933d875a7")
-		)
-		(pin "2"
-			(uuid "7f5a55c4-ace2-4c9d-bae1-e43d4b8059e2")
-		)
-		(pin "12"
-			(uuid "c6aa3329-f5e3-4a38-9418-e500b437588f")
-		)
-		(pin "9"
-			(uuid "ceccc6f9-4fc1-4d7c-a906-80db7a8f32d3")
-		)
-		(pin "7"
-			(uuid "35331ced-cbf9-48ec-aeb0-74f0628a9538")
-		)
-		(pin "11"
-			(uuid "c0dc282c-088c-4f19-8bd8-e83b560fb994")
-		)
-		(pin "15"
-			(uuid "e0d01856-8ba7-4d63-bdf3-b46418e3b9cb")
-		)
-		(pin "6"
-			(uuid "58aabcaa-5d67-4131-bda7-8010b20151e2")
-		)
-		(pin "5"
-			(uuid "e12fe45e-8f7b-4eda-a11f-16eb27327a4b")
-		)
-		(instances
-			(project "boss_DS1"
-				(path "/e0801131-6974-42d8-8070-4ed960891aa7"
-					(reference "J1")
-					(unit 2)
 				)
 			)
 		)
@@ -14012,6 +14012,117 @@
 		)
 	)
 	(symbol
+		(lib_id "pedale:top_panel_connector")
+		(at 121.92 119.38 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aef6fc4c-1200-493b-af80-7bdcd199c261")
+		(property "Reference" "J1"
+			(at 122.936 110.998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "top_panel_connector"
+			(at 124.46 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
+			(at 121.92 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 107.95 159.004 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "14"
+			(uuid "98d0747c-69a8-45ae-a287-46b8b35f1f4a")
+		)
+		(pin "1"
+			(uuid "642a31f6-5931-4629-bf28-f3cc23ac90ab")
+		)
+		(pin "8"
+			(uuid "7263ee38-a7ad-413d-84a4-508c15a10f93")
+		)
+		(pin "13"
+			(uuid "ee7db142-ff4e-482f-b464-f20280efadb8")
+		)
+		(pin "10"
+			(uuid "2d90d543-df2a-4ebb-8475-a7c76f1a1c1c")
+		)
+		(pin "4"
+			(uuid "179ba0a2-61e4-4582-9070-198c61c06bde")
+		)
+		(pin "3"
+			(uuid "4ad86c8b-e3d8-4cb8-9091-d75202de17c8")
+		)
+		(pin "16"
+			(uuid "28940a60-8e5b-4d25-ba67-0ad933d875a7")
+		)
+		(pin "2"
+			(uuid "7f5a55c4-ace2-4c9d-bae1-e43d4b8059e2")
+		)
+		(pin "12"
+			(uuid "c6aa3329-f5e3-4a38-9418-e500b437588f")
+		)
+		(pin "9"
+			(uuid "7fbcf246-f63b-4cc4-a2b8-19fcc85b2d21")
+		)
+		(pin "7"
+			(uuid "abfb01d8-a4c6-4f11-aab3-40ac0b50e5c3")
+		)
+		(pin "11"
+			(uuid "c0dc282c-088c-4f19-8bd8-e83b560fb994")
+		)
+		(pin "15"
+			(uuid "e0d01856-8ba7-4d63-bdf3-b46418e3b9cb")
+		)
+		(pin "6"
+			(uuid "58aabcaa-5d67-4131-bda7-8010b20151e2")
+		)
+		(pin "5"
+			(uuid "9354f183-7f14-470b-9d82-bd08f0d1ef5b")
+		)
+		(instances
+			(project "boss_DS1"
+				(path "/e0801131-6974-42d8-8070-4ed960891aa7"
+					(reference "J1")
+					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 186.69 19.05 90)
 		(unit 1)
@@ -14157,117 +14268,6 @@
 				(path "/e0801131-6974-42d8-8070-4ed960891aa7"
 					(reference "C17")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "pedale:top_panel_connector")
-		(at 121.92 119.38 0)
-		(unit 3)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b0dc3826-291c-4e58-beab-152d58ced2cc")
-		(property "Reference" "J1"
-			(at 122.936 110.998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "top_panel_connector"
-			(at 124.46 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
-			(at 121.92 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 107.95 159.004 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "14"
-			(uuid "5d8b6c4f-7c62-47dc-98ca-89031cb20896")
-		)
-		(pin "1"
-			(uuid "642a31f6-5931-4629-bf28-f3cc23ac90ab")
-		)
-		(pin "8"
-			(uuid "7263ee38-a7ad-413d-84a4-508c15a10f93")
-		)
-		(pin "13"
-			(uuid "ee7db142-ff4e-482f-b464-f20280efadb8")
-		)
-		(pin "10"
-			(uuid "2d90d543-df2a-4ebb-8475-a7c76f1a1c1c")
-		)
-		(pin "4"
-			(uuid "179ba0a2-61e4-4582-9070-198c61c06bde")
-		)
-		(pin "3"
-			(uuid "4ad86c8b-e3d8-4cb8-9091-d75202de17c8")
-		)
-		(pin "16"
-			(uuid "5bbc6817-3d4e-40a1-b8c7-f8bc54d147db")
-		)
-		(pin "2"
-			(uuid "7f5a55c4-ace2-4c9d-bae1-e43d4b8059e2")
-		)
-		(pin "12"
-			(uuid "22bbc7b8-e950-4694-b9a6-8c93ac91cfe3")
-		)
-		(pin "9"
-			(uuid "4bfe3273-d5ff-43e1-bfa5-d2bd595991a2")
-		)
-		(pin "7"
-			(uuid "a4f83c0b-a718-408c-a48d-a9b55684b3dd")
-		)
-		(pin "11"
-			(uuid "c0dc282c-088c-4f19-8bd8-e83b560fb994")
-		)
-		(pin "15"
-			(uuid "e0d01856-8ba7-4d63-bdf3-b46418e3b9cb")
-		)
-		(pin "6"
-			(uuid "58aabcaa-5d67-4131-bda7-8010b20151e2")
-		)
-		(pin "5"
-			(uuid "26593db5-5822-46b4-9b89-d5d3bf6a8b3f")
-		)
-		(instances
-			(project "boss_DS1"
-				(path "/e0801131-6974-42d8-8070-4ed960891aa7"
-					(reference "J1")
-					(unit 3)
 				)
 			)
 		)

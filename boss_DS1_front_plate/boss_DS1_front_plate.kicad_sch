@@ -1376,26 +1376,6 @@
 		)
 		(uuid "657ff2b9-4029-4c47-87fd-da2c38ad65f1")
 	)
-	(text "checked\n"
-		(exclude_from_sim no)
-		(at 71.12 60.198 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c1df52c0-2950-410e-913c-33197bcbb1ed")
-	)
-	(text "checked\n"
-		(exclude_from_sim no)
-		(at 71.628 81.534 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "cc0a55de-d506-4a23-a8b3-2307f5703c3b")
-	)
 	(wire
 		(pts
 			(xy 57.15 116.84) (xy 57.15 115.57)
@@ -1793,15 +1773,15 @@
 	(symbol
 		(lib_id "pedale:top_panel_connector")
 		(at 45.72 55.88 0)
+		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "23857592-d898-4b9a-84f5-674789223dcd")
 		(property "Reference" "J1"
-			(at 46.736 47.498 0)
+			(at 46.736 64.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1810,7 +1790,7 @@
 			)
 		)
 		(property "Value" "top_panel_connector"
-			(at 48.26 60.96 0)
+			(at 48.26 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1837,7 +1817,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 31.75 95.504 0)
+			(at 31.75 16.256 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2603,7 +2583,7 @@
 	)
 	(symbol
 		(lib_id "pedale:pot_gnd")
-		(at 59.69 55.88 0)
+		(at 59.69 77.47 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2612,7 +2592,7 @@
 		(dnp no)
 		(uuid "8ba96783-0009-405d-85e3-99ace488c98f")
 		(property "Reference" "RV2"
-			(at 70.358 53.848 0)
+			(at 70.358 75.438 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2620,7 +2600,7 @@
 			)
 		)
 		(property "Value" "pot_gnd"
-			(at 70.358 56.388 0)
+			(at 70.358 77.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2628,7 +2608,7 @@
 			)
 		)
 		(property "Footprint" "pedale:top_plate_pot"
-			(at 59.69 55.88 0)
+			(at 59.69 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2637,7 +2617,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 59.69 55.88 0)
+			(at 59.69 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2646,7 +2626,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 59.69 55.88 0)
+			(at 59.69 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2744,15 +2724,15 @@
 	(symbol
 		(lib_id "pedale:top_panel_connector")
 		(at 45.72 33.02 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9871930b-dfc9-4608-a62f-ba086e70ef89")
 		(property "Reference" "J1"
-			(at 46.736 24.638 0)
+			(at 46.736 41.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2761,7 +2741,7 @@
 			)
 		)
 		(property "Value" "top_panel_connector"
-			(at 48.26 38.1 0)
+			(at 48.26 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2788,7 +2768,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 31.75 72.644 0)
+			(at 31.75 -6.604 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3177,7 +3157,7 @@
 	)
 	(symbol
 		(lib_id "pedale:pot_gnd")
-		(at 59.69 77.47 0)
+		(at 59.69 55.88 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3186,7 +3166,7 @@
 		(dnp no)
 		(uuid "a9845764-fb24-47f9-8928-fb9bc3993ffe")
 		(property "Reference" "RV3"
-			(at 70.358 75.438 0)
+			(at 70.358 53.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3194,7 +3174,7 @@
 			)
 		)
 		(property "Value" "pot_gnd"
-			(at 70.358 77.978 0)
+			(at 70.358 56.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3202,7 +3182,7 @@
 			)
 		)
 		(property "Footprint" "pedale:top_plate_pot"
-			(at 59.69 77.47 0)
+			(at 59.69 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3211,7 +3191,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 59.69 77.47 0)
+			(at 59.69 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3220,7 +3200,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 59.69 77.47 0)
+			(at 59.69 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
