@@ -3636,15 +3636,15 @@
 	(symbol
 		(lib_id "pedale:top_panel_connector")
 		(at 45.72 77.47 0)
+		(mirror x)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fccba935-61f6-4beb-bde8-fac0f010c4d2")
 		(property "Reference" "J1"
-			(at 46.736 69.088 0)
+			(at 46.736 85.852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3653,7 +3653,7 @@
 			)
 		)
 		(property "Value" "top_panel_connector"
-			(at 48.26 82.55 0)
+			(at 48.26 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3680,7 +3680,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 31.75 117.094 0)
+			(at 31.75 37.846 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -14164,7 +14164,6 @@
 	(symbol
 		(lib_id "pedale:top_panel_connector")
 		(at 121.92 119.38 0)
-		(mirror x)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14172,7 +14171,7 @@
 		(dnp no)
 		(uuid "b0dc3826-291c-4e58-beab-152d58ced2cc")
 		(property "Reference" "J1"
-			(at 122.936 127.762 0)
+			(at 122.936 110.998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14181,7 +14180,7 @@
 			)
 		)
 		(property "Value" "top_panel_connector"
-			(at 124.46 114.3 0)
+			(at 124.46 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14208,7 +14207,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 107.95 79.756 0)
+			(at 107.95 159.004 0)
 			(effects
 				(font
 					(size 1.27 1.27)
