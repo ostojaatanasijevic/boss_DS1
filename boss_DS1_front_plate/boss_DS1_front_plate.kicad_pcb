@@ -214,7 +214,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "2c84a9c9-a5d6-4915-a467-5d386ff87a57")
+			(uuid "16ef0b37-7d15-4fd7-9c15-7ad10b186457")
 		)
 		(fp_circle
 			(center 0 0)
@@ -225,7 +225,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "9fad3c45-b4fd-4998-99bf-b6a67750be04")
+			(uuid "0c5d3c51-4ff3-4a0e-9781-1756a31cd647")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -250,13 +250,13 @@
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "F.Cu" "F.Mask")
-			(uuid "b83bf052-d1ae-4e49-839a-6b127f10b5bc")
+			(uuid "3d7c6e6d-997f-49ee-aec5-9ae53c369291")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "B.Cu" "B.Mask")
-			(uuid "cec4f28d-65dd-4061-a30c-8b2cad812779")
+			(uuid "3d7c6e6d-997f-49ee-aec5-9ae53c369291")
 		)
 		(embedded_fonts no)
 	)
@@ -329,7 +329,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "97cc30d1-44d6-4102-938a-d4e67b1ccff6")
+			(uuid "38a962ad-7833-41fe-8e8b-300a7addf822")
 		)
 		(fp_circle
 			(center 0 0)
@@ -340,7 +340,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "1eae1f56-1d66-474f-8998-9a403edd6991")
+			(uuid "61b5cb55-d381-4db8-b8a6-213ba2fa1c83")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -365,13 +365,13 @@
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "F.Cu" "F.Mask")
-			(uuid "983dc25f-6514-4fd4-808d-c1a8724330bd")
+			(uuid "ad8649f4-d63a-42ce-ac31-1caf9dab1c6c")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "B.Cu" "B.Mask")
-			(uuid "4660433d-5fff-43b6-80a7-31dd13027b4d")
+			(uuid "ad8649f4-d63a-42ce-ac31-1caf9dab1c6c")
 		)
 		(embedded_fonts no)
 	)
@@ -444,7 +444,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5800d01c-e60e-4e99-85b2-3549ed53606d")
+			(uuid "3025bc07-d7c8-49ee-8695-e63ee4e8282c")
 		)
 		(fp_line
 			(start 2.06 -2.37)
@@ -454,7 +454,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a81a1a56-ee1b-41a2-980f-0e453e8b18a6")
+			(uuid "c7c240e9-c4d2-4df0-b145-a77eb5a540a0")
 		)
 		(fp_line
 			(start 1.26 2.37)
@@ -464,7 +464,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "8fe055b1-ca56-470b-9d7c-7e422e6e3a1d")
+			(uuid "a9fd853d-845c-4aba-a695-4af7e13bf22e")
 		)
 		(fp_line
 			(start -0.24 -2.37)
@@ -474,7 +474,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f16e1dc2-934d-423a-8296-b85f949d3ef4")
+			(uuid "3620d61a-c865-4337-8bcf-c0c77cd951a3")
 		)
 		(fp_line
 			(start -2.62 2.37)
@@ -484,7 +484,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0a50046f-faeb-4d09-9d18-650a73fbcb0d")
+			(uuid "e97026cc-665a-44b2-85d6-fb2912bbf863")
 		)
 		(fp_line
 			(start -2.62 -2.37)
@@ -494,7 +494,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2ce69ec0-ddf2-4e2b-9860-ad3dd2dc0c99")
+			(uuid "98421943-c267-4a8b-a77d-9349183ffb69")
 		)
 		(fp_line
 			(start -2.62 -2.37)
@@ -504,7 +504,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ebc8218f-513c-4485-be5c-9653a230a918")
+			(uuid "51a38739-cc66-4885-a5c7-39c100ffc111")
 		)
 		(fp_circle
 			(center 0 0)
@@ -515,7 +515,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "0d224499-163d-4f73-a727-deccfda9320f")
+			(uuid "afd6efe5-fdc5-4ee9-b535-bc32767f96a0")
 		)
 		(fp_rect
 			(start -8.5 -8.5)
@@ -526,7 +526,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "e3c67fb6-c64e-477c-bd43-b06a162318fe")
+			(uuid "a36ebfb1-bf80-4227-a06f-bd0b5ca5577d")
 		)
 		(fp_line
 			(start 2.5 2.25)
@@ -536,7 +536,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d4c60816-9a1e-468d-b97e-25bf0a812148")
+			(uuid "a6637f07-ed8b-454d-9f2d-1b0f003f23cd")
 		)
 		(fp_line
 			(start 2.5 -2.25)
@@ -546,7 +546,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f35fe276-adee-4385-aa3e-d1e1c82acd15")
+			(uuid "ac9227f7-1791-42e5-a48e-c97c21b6b911")
 		)
 		(fp_line
 			(start -2.5 2.25)
@@ -556,7 +556,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "19935385-e520-477b-94f1-71f8796fa11e")
+			(uuid "3ec57868-a818-4ce6-8fbc-8362d7295818")
 		)
 		(fp_line
 			(start -2.5 -2.25)
@@ -566,7 +566,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "46247b09-0d32-4f4f-b2a4-bf72f04211aa")
+			(uuid "ec772d7b-139f-4b19-b7b9-93c623f91b61")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 -1.7 0)
@@ -621,7 +621,7 @@
 			(uuid "befca4ed-4277-426b-a599-c5211a438c8e")
 		)
 		(embedded_fonts no)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/pot.STEP"
+		(model "${KIPRJMOD}/../pedale.pretty/pot.STEP"
 			(offset
 				(xyz 0 0 -5)
 			)
@@ -632,7 +632,7 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/Potentiometer knob_A15x17-PK-AB-K-I.stp"
+		(model "${KIPRJMOD}/../pedale.pretty/Potentiometer knob_A15x17-PK-AB-K-I.stp"
 			(offset
 				(xyz 0 0 7.5)
 			)
@@ -727,7 +727,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "9daa1b23-0075-4cdc-bb69-388a6186ffb2")
+			(uuid "336656fb-5281-415d-bf64-153ad7f762c7")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 180)
@@ -746,7 +746,7 @@
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
-			(uuid "41e0e378-5bfb-406d-b21c-d12929636513")
+			(uuid "892884b7-b074-44ba-8e2a-02d136b83071")
 		)
 		(pad "1" smd roundrect
 			(at -1.5 5.25 180)
@@ -850,7 +850,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "83f3f3f6-cb01-4ac6-be9a-25e70ca872f2")
+			(uuid "963ff541-8ab9-406b-ad4d-52deb0f9f7e8")
 		)
 		(fp_line
 			(start -2.62 -2.37)
@@ -860,7 +860,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "03ecfb9f-6c0a-4f11-b57b-5439a63e175a")
+			(uuid "dfc5b96f-9f04-459d-b645-b950c1e9c80b")
 		)
 		(fp_line
 			(start -2.62 2.37)
@@ -870,7 +870,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "92c8879b-11fc-4ba9-ac25-8399c758b149")
+			(uuid "d721c3b0-f96b-4c87-8d91-fde0cedfe527")
 		)
 		(fp_line
 			(start -0.24 -2.37)
@@ -880,7 +880,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4d49db2f-11d9-44db-be6e-472283c4f820")
+			(uuid "63d3304f-afad-49ca-8f55-5e710754a413")
 		)
 		(fp_line
 			(start 1.26 2.37)
@@ -890,7 +890,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "740633b2-3227-4b0f-8030-52f31c9a7c50")
+			(uuid "50fd5221-62d5-446a-88bd-a203682a43c0")
 		)
 		(fp_line
 			(start 2.06 -2.37)
@@ -900,7 +900,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4ce2f13d-987b-4528-a95f-47302c36b143")
+			(uuid "a4034360-7ff6-43e8-bae1-0ba6fdcb077e")
 		)
 		(fp_line
 			(start 2.62 -2.37)
@@ -910,7 +910,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4b7aeb10-7c97-45b5-974f-ec98261bb369")
+			(uuid "56d86a0e-f9e0-4713-87c5-a8c82cc04cc6")
 		)
 		(fp_circle
 			(center 0 0)
@@ -921,7 +921,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "8bddf196-2118-4af2-8e15-6ba82661d41a")
+			(uuid "b0d827b3-3408-459d-9e45-18f4712610c9")
 		)
 		(fp_rect
 			(start -8.5 -8.5)
@@ -932,7 +932,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "56fc406f-c6f4-4e4b-b5e2-fe8ef118102e")
+			(uuid "8be0e3d1-c750-459a-bffd-73ea7e79e7b2")
 		)
 		(fp_line
 			(start -2.5 -2.25)
@@ -942,7 +942,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "972f4f69-a85b-4eea-803d-e1a5a4c3d98e")
+			(uuid "8594c036-eda1-4c1b-995c-9fc72ae05c00")
 		)
 		(fp_line
 			(start -2.5 2.25)
@@ -952,7 +952,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "382a6325-1a97-47cd-b350-11332d360fbd")
+			(uuid "746b8abe-79e9-405a-96b0-a196ae8ce3bf")
 		)
 		(fp_line
 			(start 2.5 -2.25)
@@ -962,7 +962,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2dce882b-86f5-4ccb-bb82-5b564a87be25")
+			(uuid "b4221707-0305-43e8-850d-4c61f466a552")
 		)
 		(fp_line
 			(start 2.5 2.25)
@@ -972,7 +972,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1332b102-ca25-4740-8b3a-39da023e1ffd")
+			(uuid "933bcd49-dd6a-4e82-b225-b733fa5e8615")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 -1.7 0)
@@ -1027,7 +1027,7 @@
 			(uuid "a411f014-ed55-416a-bf8d-d5e3d8148a0a")
 		)
 		(embedded_fonts no)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/pot.STEP"
+		(model "${KIPRJMOD}/../pedale.pretty/pot.STEP"
 			(offset
 				(xyz 0 0 -5)
 			)
@@ -1038,7 +1038,7 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/Potentiometer knob_A15x17-PK-AB-K-I.stp"
+		(model "${KIPRJMOD}/../pedale.pretty/Potentiometer knob_A15x17-PK-AB-K-I.stp"
 			(offset
 				(xyz 0 0 7.5)
 			)
@@ -1119,7 +1119,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "b3800882-c5db-4601-9292-f1099ed2f518")
+			(uuid "b99fe8df-458f-4a69-829b-98412f3fdc38")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1130,7 +1130,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "d6b2a0b5-6dd8-4bb9-afb1-61e6742690f1")
+			(uuid "df99a0d4-6ac9-462b-9059-2136d6b29ab9")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -1225,7 +1225,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "4e0b0130-b56f-4858-8089-0e57de51ae15")
+			(uuid "d6bb2365-d71b-490f-8b67-63973eed021b")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1236,7 +1236,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "fc294cda-ca0d-454e-8fac-d74ad190e001")
+			(uuid "32e683fa-eb8e-472f-92c9-963018bcab7c")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -1261,13 +1261,13 @@
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "F.Cu" "F.Mask")
-			(uuid "4436e299-aca1-4e2b-8385-1d2f982aa17a")
+			(uuid "6d602623-9a5e-4756-9a14-5e704adf27b3")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "B.Cu" "B.Mask")
-			(uuid "16fd9c18-4912-49b4-a6f6-be789078ef82")
+			(uuid "6d602623-9a5e-4756-9a14-5e704adf27b3")
 		)
 		(embedded_fonts no)
 	)
@@ -1340,7 +1340,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ae4e5716-96c8-4da3-9c57-e1c650cf2e0c")
+			(uuid "fcfb7b1f-9854-4257-be97-e54a117b8125")
 		)
 		(fp_line
 			(start -2.62 -2.37)
@@ -1350,7 +1350,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "42bcf046-7be8-421e-8c6d-27c9279940f0")
+			(uuid "6c0c17dc-48d2-4b1b-bb87-a9527aa62599")
 		)
 		(fp_line
 			(start -2.62 2.37)
@@ -1360,7 +1360,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c7f05fb1-5ee4-43da-bdef-6fa5160db743")
+			(uuid "c19e24fb-ce9c-4e55-ad0d-87b0695a8d1e")
 		)
 		(fp_line
 			(start -0.24 -2.37)
@@ -1370,7 +1370,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2df02727-c747-460f-bded-65d266114f74")
+			(uuid "e81132e2-6d13-4222-82a0-0944b997308d")
 		)
 		(fp_line
 			(start 1.26 2.37)
@@ -1380,7 +1380,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c86cea4f-2a0c-4f25-8be7-5be2babc0449")
+			(uuid "af1c73a1-14b1-46cf-839b-c8e76fc87013")
 		)
 		(fp_line
 			(start 2.06 -2.37)
@@ -1390,7 +1390,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d825dc90-ae28-404d-901d-82cd636ed93d")
+			(uuid "7fb0820a-dbe6-496a-8174-a7c98fd43081")
 		)
 		(fp_line
 			(start 2.62 -2.37)
@@ -1400,7 +1400,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "391ff6f9-8702-4b11-9b4d-f716365f7cbe")
+			(uuid "23f9f81f-60a4-4e76-83fb-2e2e59494117")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1411,7 +1411,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "2f9ee5ce-8971-4ead-87b7-544b791d3527")
+			(uuid "cd845cdc-bc09-4620-bd06-ed17eaa7e241")
 		)
 		(fp_rect
 			(start -8.5 -8.5)
@@ -1422,7 +1422,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "ccdb1a26-c875-4727-8b63-52c1e0971198")
+			(uuid "338cf0e2-69b5-4b6f-b332-309cec865a0d")
 		)
 		(fp_line
 			(start -2.5 -2.25)
@@ -1432,7 +1432,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1051fd18-2b4b-40db-971c-f48d1c411537")
+			(uuid "84fe0a0f-a315-4ee7-b976-8253b8d338d9")
 		)
 		(fp_line
 			(start -2.5 2.25)
@@ -1442,7 +1442,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "07225f07-2910-4c18-b824-69d8df24ea28")
+			(uuid "685b770b-8808-43af-af59-9fe65af03640")
 		)
 		(fp_line
 			(start 2.5 -2.25)
@@ -1452,7 +1452,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ffa15f2f-ed24-4863-a609-ed4b46fee036")
+			(uuid "03af2378-f3f1-4942-8fd1-5b07d2217819")
 		)
 		(fp_line
 			(start 2.5 2.25)
@@ -1462,7 +1462,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e328d3ba-27e6-423a-b884-11c77eb57d7d")
+			(uuid "439805da-d99b-45e1-988b-ae728382d8ae")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 -1.7 0)
@@ -1517,7 +1517,7 @@
 			(uuid "2876ec36-b245-406a-8e42-2dadb29f2ad7")
 		)
 		(embedded_fonts no)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/pot.STEP"
+		(model "${KIPRJMOD}/../pedale.pretty/pot.STEP"
 			(offset
 				(xyz 0 0 -5)
 			)
@@ -1528,7 +1528,7 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "/home/ostoja/Elektronika/pedale/big_muff_pi/pedale.pretty/Potentiometer knob_A15x17-PK-AB-K-I.stp"
+		(model "${KIPRJMOD}/../pedale.pretty/Potentiometer knob_A15x17-PK-AB-K-I.stp"
 			(offset
 				(xyz 0 0 7.5)
 			)
@@ -2089,7 +2089,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "615205ba-e428-4b2c-8864-3565f378b2e6")
+			(uuid "80c3044d-17e1-4a30-ba3e-4343605feb8b")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2100,7 +2100,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "577f7516-8949-44ce-9f86-2d4442038417")
+			(uuid "92128fac-1e8f-45d6-b362-1a32b8d8a608")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -2125,13 +2125,13 @@
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "F.Cu" "F.Mask")
-			(uuid "e3330ac7-9826-4eae-a063-c4965c2bf7e5")
+			(uuid "89dae18b-311d-4293-be95-d9a0f0760961")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "B.Cu" "B.Mask")
-			(uuid "e1d651aa-31e1-465f-b822-57bcc62849e1")
+			(uuid "89dae18b-311d-4293-be95-d9a0f0760961")
 		)
 		(embedded_fonts no)
 	)
@@ -2204,7 +2204,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "77089068-fb24-48ed-8853-ab366fdf4dcb")
+			(uuid "60bde0c0-b6a9-435e-a17a-fcca94bd481b")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2215,7 +2215,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "4ef0cb97-da05-4833-a698-958f0248e0ce")
+			(uuid "ebc81510-7848-428e-8d49-0579ffbf9867")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -2240,13 +2240,13 @@
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "F.Cu" "F.Mask")
-			(uuid "34d2ab6a-a5d4-45ef-afe1-273be0c9ce16")
+			(uuid "1ce69096-5f6c-4076-b9b9-6dece2753908")
 		)
 		(pad "1" connect circle
 			(at 0 0)
 			(size 5.6 5.6)
 			(layers "B.Cu" "B.Mask")
-			(uuid "3861db78-5399-4320-a838-703af90393ed")
+			(uuid "1ce69096-5f6c-4076-b9b9-6dece2753908")
 		)
 		(embedded_fonts no)
 	)
@@ -2333,7 +2333,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "2a9d3b59-2120-49f8-93f5-1e717e5e524d")
+			(uuid "2e13ee23-0ce6-4c07-be3c-fe932d2e8aee")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 180)
@@ -2352,7 +2352,7 @@
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
-			(uuid "cf3b509f-43d8-446e-a3cb-fc130293135b")
+			(uuid "134ea896-0457-4af7-a82c-f06baa99513e")
 		)
 		(pad "1" smd roundrect
 			(at -1.5 5.25 180)
@@ -2460,7 +2460,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f670efe4-8afd-45a7-a57f-f98374ed3d89")
+			(uuid "6794a2f5-4548-4027-aa0e-79f809f74f2f")
 		)
 		(fp_line
 			(start 5.83 5.21)
@@ -2470,7 +2470,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f85b3195-f94f-4daa-b15f-aa8dfe974adf")
+			(uuid "67b5acbc-2657-4f96-a9d4-6a0aa6ae1926")
 		)
 		(fp_line
 			(start -2.635 3.91)
@@ -2480,7 +2480,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e1576c85-bd36-4224-8e57-4e0651939b13")
+			(uuid "c26e5418-c084-4b0a-beb2-52845abb73c4")
 		)
 		(fp_line
 			(start 5 3.91)
@@ -2490,7 +2490,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "0e72605f-866b-4a19-9183-5962a4745329")
+			(uuid "8b046bf5-5206-47fa-a81d-84c8b8f39655")
 		)
 		(fp_line
 			(start -3.29 -6.4)
@@ -2500,7 +2500,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "956c77cf-16a9-4653-ac94-4981e71cc145")
+			(uuid "f062bd2b-104a-45ef-8e13-721d53649d55")
 		)
 		(fp_line
 			(start -2.635 -6.4)
@@ -2510,7 +2510,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "19226b46-0a59-4a79-9939-5a0c1a936dce")
+			(uuid "26f02614-89ab-49aa-a850-a82ab84f61b7")
 		)
 		(fp_line
 			(start -2.635 -11.4)
@@ -2520,7 +2520,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "da79a558-99b1-48cb-9dab-78566085f717")
+			(uuid "b47e97b2-875d-4ae4-8887-2081e76ec837")
 		)
 		(fp_line
 			(start -2.635 -21.69)
@@ -2530,7 +2530,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "103a860c-e69e-4c0c-b58e-a636b2f3ae79")
+			(uuid "d50082d9-ef4a-4204-8d3d-e0cc5f24b512")
 		)
 		(fp_line
 			(start 5 -21.69)
@@ -2540,7 +2540,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "fc2567a9-9c6d-4323-a06d-e7c22bd57c8e")
+			(uuid "79151b5f-4e45-4ed8-a6e8-05f1a592e815")
 		)
 		(fp_line
 			(start -3.29 -22.99)
@@ -2550,7 +2550,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "feca2e35-01b7-44fe-8ebe-2f952eb18fb7")
+			(uuid "f88e8660-aa90-4248-aa60-5f366252a276")
 		)
 		(fp_line
 			(start 5.83 -22.99)
@@ -2560,7 +2560,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "671fe3e9-bfe7-425d-bc9f-f8502ef1079a")
+			(uuid "61aac798-a76d-4ebb-963c-d0d9e6b0ac9b")
 		)
 		(fp_line
 			(start -3.68 5.6)
@@ -2570,7 +2570,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e1aac45c-43fa-435a-9172-67234d51f138")
+			(uuid "3bfec7f0-827d-4479-89a2-59c2e59ab159")
 		)
 		(fp_line
 			(start 6.22 5.6)
@@ -2580,7 +2580,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "0a606ab6-7365-4299-8582-b5bdabe43aa6")
+			(uuid "c0a588ab-d47e-430a-bdc5-78451286ed67")
 		)
 		(fp_line
 			(start -3.68 -23.38)
@@ -2590,7 +2590,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "eb01b74d-f3b7-45f3-a601-9dce9559a678")
+			(uuid "3f6ba04a-0be3-45b9-b7e9-1ab3205bde59")
 		)
 		(fp_line
 			(start 6.22 -23.38)
@@ -2600,7 +2600,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "cfbd3ee6-caa7-4f41-bb8f-5c03a2dd20ef")
+			(uuid "c51685b2-bf0d-4155-835d-19e79c1e83c3")
 		)
 		(fp_line
 			(start -2.18 5.1)
@@ -2610,7 +2610,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "3834aa36-38c9-4793-92ee-7caafa125595")
+			(uuid "c42a229b-6752-403f-9913-d9d984fc2687")
 		)
 		(fp_line
 			(start 5.72 5.1)
@@ -2620,7 +2620,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "4028d2bb-79a0-4f66-b6e6-db55fc615f8e")
+			(uuid "6e67beff-0be1-470b-b377-2015e36d3b98")
 		)
 		(fp_line
 			(start -3.18 4.1)
@@ -2630,7 +2630,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "75484a1e-2ff1-4701-8b08-77c7b592b450")
+			(uuid "376da82c-1875-4a59-b905-2277248a6ab6")
 		)
 		(fp_line
 			(start -1.98 3.91)
@@ -2640,7 +2640,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "1beb71a2-815e-4357-a3d4-5976caff29e2")
+			(uuid "edb38cea-e518-4ea4-ae91-5d4751165059")
 		)
 		(fp_line
 			(start 4.52 3.91)
@@ -2650,7 +2650,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "2ef4f655-1395-41f4-a742-a757b61f1480")
+			(uuid "6bcf9a99-813a-44b5-9bc0-98df995e058e")
 		)
 		(fp_line
 			(start -3.18 -6.84)
@@ -2660,7 +2660,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "1b6d32df-0f2e-4a0b-9d5b-db427ebc1411")
+			(uuid "96d5d317-280b-4aea-8cff-d5ae925eb2a2")
 		)
 		(fp_line
 			(start -1.98 -6.84)
@@ -2670,7 +2670,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6bb7a4d6-f6c8-4ad7-8e12-ede584a64e67")
+			(uuid "e555a982-1b58-470c-9cfd-02fb41b8b9a5")
 		)
 		(fp_line
 			(start -1.98 -10.94)
@@ -2680,7 +2680,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "37f743e1-f0f0-4cf3-9dfe-345738d8157f")
+			(uuid "272af239-6aa5-47a1-8272-d4477d092ccb")
 		)
 		(fp_line
 			(start -1.98 -10.94)
@@ -2690,7 +2690,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "8309378d-b38f-4f15-880c-a4b66689348b")
+			(uuid "7d8cb4df-5d49-44ca-8db4-f3050546293b")
 		)
 		(fp_line
 			(start -1.98 -21.69)
@@ -2700,7 +2700,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "bffb2665-035b-4da9-9933-ded2494372fe")
+			(uuid "37f10903-38a3-424f-a7cd-1171fb20db51")
 		)
 		(fp_line
 			(start 4.52 -21.69)
@@ -2710,7 +2710,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "f465739c-680b-47a9-b966-05f10697928b")
+			(uuid "33cb6361-a910-4fc8-81c6-2d137a7733ef")
 		)
 		(fp_line
 			(start -3.18 -22.88)
@@ -2720,7 +2720,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "a1b44706-1de4-4361-b87d-2ec95d7947b0")
+			(uuid "9123494a-0ecc-4fac-8984-d5e3438f0f6f")
 		)
 		(fp_line
 			(start 5.72 -22.88)
@@ -2730,7 +2730,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "8c649b06-2005-40f8-a019-7f3086692b14")
+			(uuid "6c056fae-6c4d-428f-984a-886f0261de74")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 1.27 -8.89 0)
@@ -2923,7 +2923,7 @@
 			(uuid "1f1279f4-d6cd-4ee1-9908-53e54da4af75")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x08_P2.54mm_Vertical.stpZ"
+		(model "/home/ostoja/Elektronika/pedale/boss_DS1/pedale.pretty/IDC-Header_2x08_P2.54mm_Vertical.stpZ"
 			(offset
 				(xyz 0 0 3)
 			)
