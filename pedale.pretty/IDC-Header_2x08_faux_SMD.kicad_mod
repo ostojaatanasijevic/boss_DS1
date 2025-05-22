@@ -476,7 +476,7 @@
 		(uuid "7ec0adcb-cedd-44aa-b469-fab2f4965834")
 	)
 	(embedded_fonts no)
-	(model "/home/ostoja/Elektronika/pedale/boss_DS1/pedale.pretty/IDC-Header_2x08_P2.54mm_Vertical.stpZ"
+	(model "/home/ostoja/Elektronika/pedale/boss_DS1/pedale.pretty/IDC-Header_2x08_P2.54mm_Vertical.stp"
 		(offset
 			(xyz 0 0 3)
 		)
@@ -484,7 +484,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz -0 -0 90)
 		)
 	)
 )
