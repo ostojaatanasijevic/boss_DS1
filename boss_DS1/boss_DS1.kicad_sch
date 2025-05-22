@@ -5,6 +5,2064 @@
 	(uuid "e0801131-6974-42d8-8070-4ed960891aa7")
 	(paper "A4")
 	(lib_symbols
+		(symbol "0_1"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_1_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_1_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_10"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_10_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_10_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_11"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_11_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_11_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_12"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_12_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_12_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_13"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_13_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_13_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_14"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_14_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_14_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_15"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_15_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_15_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_16"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_16_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_16_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_17"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_17_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_17_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_18"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_18_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_18_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_19"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_19_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_19_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_2"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_2_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_2_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_20"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_20_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_20_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_21"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_21_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_21_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_3"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_3_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_3_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_4"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_4_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_4_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_5"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_5_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_5_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_6"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_6_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_6_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_7"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_7_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_7_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_8"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_8_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_8_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "0_9"
+			(power)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#GND"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "0"
+				(at 0 -1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "0V reference potential for simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "simulation"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "0_9_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 0 -1.27) (xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0_9_1_1"
+				(pin power_in line
+					(at 0 0 0)
+					(length 0)
+					(hide yes)
+					(name "0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Amplifier_Operational:NE5532"
 			(pin_names
 				(offset 0.127)
@@ -249,6 +2307,585 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "BC817_1"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BC817"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "NPN Transistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BC817_1_0_1"
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 0.635) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "BC817_1_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 5.715)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "BC817_2"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BC817"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "NPN Transistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BC817_2_0_1"
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 0.635) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "BC817_2_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 5.715)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "BC817_3"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BC817"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC818-D.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.8A Ic, 45V Vce, NPN Transistor, SOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "NPN Transistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BC817_3_0_1"
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 0.635) (xy 2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "BC817_3_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 5.715)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "E"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1375,142 +4012,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Graphic:Logo_Open_Hardware_Small"
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board no)
-			(property "Reference" "#SYM"
-				(at 0 6.985 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "Logo_Open_Hardware_Small"
-				(at 0 -5.715 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Open Hardware logo, small"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Enable" "0"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Logo"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Logo_Open_Hardware_Small_0_1"
-				(polyline
-					(pts
-						(xy 3.3528 -4.3434) (xy 3.302 -4.318) (xy 3.175 -4.2418) (xy 2.9972 -4.1148) (xy 2.7686 -3.9624)
-						(xy 2.54 -3.81) (xy 2.3622 -3.7084) (xy 2.2352 -3.6068) (xy 2.1844 -3.5814) (xy 2.159 -3.6068)
-						(xy 2.0574 -3.6576) (xy 1.905 -3.7338) (xy 1.8034 -3.7846) (xy 1.6764 -3.8354) (xy 1.6002 -3.8354)
-						(xy 1.6002 -3.8354) (xy 1.5494 -3.7338) (xy 1.4732 -3.5306) (xy 1.3462 -3.302) (xy 1.2446 -3.0226)
-						(xy 1.1176 -2.7178) (xy 0.9652 -2.413) (xy 0.8636 -2.1082) (xy 0.7366 -1.8288) (xy 0.6604 -1.6256)
-						(xy 0.6096 -1.4732) (xy 0.5842 -1.397) (xy 0.5842 -1.397) (xy 0.6604 -1.3208) (xy 0.7874 -1.2446)
-						(xy 1.0414 -1.016) (xy 1.2954 -0.6858) (xy 1.4478 -0.3302) (xy 1.524 0.0762) (xy 1.4732 0.4572)
-						(xy 1.3208 0.8128) (xy 1.0668 1.143) (xy 0.762 1.3716) (xy 0.4064 1.524) (xy 0 1.5748) (xy -0.381 1.5494)
-						(xy -0.7366 1.397) (xy -1.0668 1.143) (xy -1.2192 0.9906) (xy -1.397 0.6604) (xy -1.524 0.3048)
-						(xy -1.524 0.2286) (xy -1.4986 -0.1778) (xy -1.397 -0.5334) (xy -1.1938 -0.8636) (xy -0.9144 -1.143)
-						(xy -0.8636 -1.1684) (xy -0.7366 -1.27) (xy -0.635 -1.3462) (xy -0.5842 -1.397) (xy -1.0668 -2.5908)
-						(xy -1.143 -2.794) (xy -1.2954 -3.1242) (xy -1.397 -3.4036) (xy -1.4986 -3.6322) (xy -1.5748 -3.7846)
-						(xy -1.6002 -3.8354) (xy -1.6002 -3.8354) (xy -1.651 -3.8354) (xy -1.7272 -3.81) (xy -1.905 -3.7338)
-						(xy -2.0066 -3.683) (xy -2.1336 -3.6068) (xy -2.2098 -3.5814) (xy -2.2606 -3.6068) (xy -2.3622 -3.683)
-						(xy -2.54 -3.81) (xy -2.7686 -3.9624) (xy -2.9718 -4.0894) (xy -3.1496 -4.2164) (xy -3.302 -4.318)
-						(xy -3.3528 -4.3434) (xy -3.3782 -4.3434) (xy -3.429 -4.318) (xy -3.5306 -4.2164) (xy -3.7084 -4.064)
-						(xy -3.937 -3.8354) (xy -3.9624 -3.81) (xy -4.1656 -3.6068) (xy -4.318 -3.4544) (xy -4.4196 -3.3274)
-						(xy -4.445 -3.2766) (xy -4.445 -3.2766) (xy -4.4196 -3.2258) (xy -4.318 -3.0734) (xy -4.2164 -2.8956)
-						(xy -4.064 -2.667) (xy -3.6576 -2.0828) (xy -3.8862 -1.5494) (xy -3.937 -1.3716) (xy -4.0386 -1.1684)
-						(xy -4.0894 -1.0414) (xy -4.1148 -0.9652) (xy -4.191 -0.9398) (xy -4.318 -0.9144) (xy -4.5466 -0.8636)
-						(xy -4.8006 -0.8128) (xy -5.0546 -0.7874) (xy -5.2578 -0.7366) (xy -5.4356 -0.7112) (xy -5.5118 -0.6858)
-						(xy -5.5118 -0.6858) (xy -5.5372 -0.635) (xy -5.5372 -0.5588) (xy -5.5372 -0.4318) (xy -5.5626 -0.2286)
-						(xy -5.5626 0.0762) (xy -5.5626 0.127) (xy -5.5372 0.4064) (xy -5.5372 0.635) (xy -5.5372 0.762)
-						(xy -5.5372 0.8382) (xy -5.5372 0.8382) (xy -5.461 0.8382) (xy -5.3086 0.889) (xy -5.08 0.9144)
-						(xy -4.826 0.9652) (xy -4.8006 0.9906) (xy -4.5466 1.0414) (xy -4.318 1.0668) (xy -4.1656 1.1176)
-						(xy -4.0894 1.143) (xy -4.0894 1.143) (xy -4.0386 1.2446) (xy -3.9624 1.4224) (xy -3.8608 1.6256)
-						(xy -3.7846 1.8288) (xy -3.7084 2.0066) (xy -3.6576 2.159) (xy -3.6322 2.2098) (xy -3.6322 2.2098)
-						(xy -3.683 2.286) (xy -3.7592 2.413) (xy -3.8862 2.5908) (xy -4.064 2.8194) (xy -4.064 2.8448)
-						(xy -4.2164 3.0734) (xy -4.3434 3.2512) (xy -4.4196 3.3782) (xy -4.445 3.4544) (xy -4.445 3.4544)
-						(xy -4.3942 3.5052) (xy -4.2926 3.6322) (xy -4.1148 3.81) (xy -3.937 4.0132) (xy -3.8608 4.064)
-						(xy -3.6576 4.2926) (xy -3.5052 4.4196) (xy -3.4036 4.4958) (xy -3.3528 4.5212) (xy -3.3528 4.5212)
-						(xy -3.302 4.4704) (xy -3.1496 4.3688) (xy -2.9718 4.2418) (xy -2.7432 4.0894) (xy -2.7178 4.0894)
-						(xy -2.4892 3.937) (xy -2.3114 3.81) (xy -2.1844 3.7084) (xy -2.1336 3.683) (xy -2.1082 3.683)
-						(xy -2.032 3.7084) (xy -1.8542 3.7592) (xy -1.6764 3.8354) (xy -1.4732 3.937) (xy -1.27 4.0132)
-						(xy -1.143 4.064) (xy -1.0668 4.1148) (xy -1.0668 4.1148) (xy -1.0414 4.191) (xy -1.016 4.3434)
-						(xy -0.9652 4.572) (xy -0.9144 4.8514) (xy -0.889 4.9022) (xy -0.8382 5.1562) (xy -0.8128 5.3848)
-						(xy -0.7874 5.5372) (xy -0.762 5.588) (xy -0.7112 5.6134) (xy -0.5842 5.6134) (xy -0.4064 5.6134)
-						(xy -0.1524 5.6134) (xy 0.0762 5.6134) (xy 0.3302 5.6134) (xy 0.5334 5.6134) (xy 0.6858 5.588)
-						(xy 0.7366 5.588) (xy 0.7366 5.588) (xy 0.762 5.5118) (xy 0.8128 5.334) (xy 0.8382 5.1054) (xy 0.9144 4.826)
-						(xy 0.9144 4.7752) (xy 0.9652 4.5212) (xy 1.016 4.2926) (xy 1.0414 4.1402) (xy 1.0668 4.0894)
-						(xy 1.0668 4.0894) (xy 1.1938 4.0386) (xy 1.3716 3.9624) (xy 1.5748 3.8608) (xy 2.0828 3.6576)
-						(xy 2.7178 4.0894) (xy 2.7686 4.1402) (xy 2.9972 4.2926) (xy 3.175 4.4196) (xy 3.302 4.4958) (xy 3.3782 4.5212)
-						(xy 3.3782 4.5212) (xy 3.429 4.4704) (xy 3.556 4.3434) (xy 3.7338 4.191) (xy 3.9116 3.9878) (xy 4.064 3.8354)
-						(xy 4.2418 3.6576) (xy 4.3434 3.556) (xy 4.4196 3.4798) (xy 4.4196 3.429) (xy 4.4196 3.4036) (xy 4.3942 3.3274)
-						(xy 4.2926 3.2004) (xy 4.1656 2.9972) (xy 4.0132 2.794) (xy 3.8862 2.5908) (xy 3.7592 2.3876)
-						(xy 3.6576 2.2352) (xy 3.6322 2.159) (xy 3.6322 2.1336) (xy 3.683 2.0066) (xy 3.7592 1.8288) (xy 3.8608 1.6002)
-						(xy 4.064 1.1176) (xy 4.3942 1.0414) (xy 4.5974 1.016) (xy 4.8768 0.9652) (xy 5.1308 0.9144) (xy 5.5372 0.8382)
-						(xy 5.5626 -0.6604) (xy 5.4864 -0.6858) (xy 5.4356 -0.6858) (xy 5.2832 -0.7366) (xy 5.0546 -0.762)
-						(xy 4.8006 -0.8128) (xy 4.5974 -0.8636) (xy 4.3688 -0.9144) (xy 4.2164 -0.9398) (xy 4.1402 -0.9398)
-						(xy 4.1148 -0.9652) (xy 4.064 -1.0668) (xy 3.9878 -1.2446) (xy 3.9116 -1.4478) (xy 3.81 -1.651)
-						(xy 3.7338 -1.8542) (xy 3.683 -2.0066) (xy 3.6576 -2.0828) (xy 3.683 -2.1336) (xy 3.7846 -2.2606)
-						(xy 3.8862 -2.4638) (xy 4.0386 -2.667) (xy 4.191 -2.8956) (xy 4.318 -3.0734) (xy 4.3942 -3.2004)
-						(xy 4.445 -3.2766) (xy 4.4196 -3.3274) (xy 4.3434 -3.429) (xy 4.1656 -3.5814) (xy 3.937 -3.8354)
-						(xy 3.8862 -3.8608) (xy 3.683 -4.064) (xy 3.5306 -4.2164) (xy 3.4036 -4.318) (xy 3.3528 -4.3434)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Mechanical:MountingHole"
 			(pin_names
 				(offset 1.016)
@@ -1580,6 +4081,338 @@
 				)
 			)
 			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountingHole_1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_1_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountingHole_2"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_2_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountingHole_3"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_3_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountingHole_4"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_4_0_1"
 				(circle
 					(center 0 0)
 					(radius 1.27)
@@ -7947,6 +10780,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_6")
 		(lib_id "Simulation_SPICE:0")
 		(at 50.8 140.97 0)
 		(unit 1)
@@ -8492,6 +11326,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_13")
 		(lib_id "Simulation_SPICE:0")
 		(at 232.41 121.92 0)
 		(unit 1)
@@ -8556,6 +11391,7 @@
 		)
 	)
 	(symbol
+		(lib_name "BC817_3")
 		(lib_id "Transistor_BJT:BC817")
 		(at 203.2 121.92 0)
 		(unit 1)
@@ -8694,6 +11530,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_12")
 		(lib_id "Simulation_SPICE:0")
 		(at 176.53 44.45 270)
 		(unit 1)
@@ -8786,7 +11623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
+		(property "Footprint" "pedale:IDC-Header_2x08_P2.54mm_Vertical"
 			(at 96.52 135.89 0)
 			(effects
 				(font
@@ -8871,6 +11708,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_3")
 		(lib_id "Simulation_SPICE:0")
 		(at 210.82 15.24 0)
 		(mirror x)
@@ -9013,6 +11851,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_14")
 		(lib_id "Simulation_SPICE:0")
 		(at 40.64 140.97 0)
 		(unit 1)
@@ -9236,6 +12075,7 @@
 		)
 	)
 	(symbol
+		(lib_name "BC817_2")
 		(lib_id "Transistor_BJT:BC817")
 		(at 60.96 48.26 0)
 		(unit 1)
@@ -9708,7 +12548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
+		(property "Footprint" "pedale:IDC-Header_2x08_P2.54mm_Vertical"
 			(at 266.7 48.26 0)
 			(effects
 				(font
@@ -9899,7 +12739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
+		(property "Footprint" "pedale:IDC-Header_2x08_P2.54mm_Vertical"
 			(at 132.08 101.6 0)
 			(effects
 				(font
@@ -9927,52 +12767,52 @@
 			)
 		)
 		(pin "8"
-			(uuid "11c46475-e4db-40fc-999e-a4dcdd78b872")
+			(uuid "11c46475-e4db-40fc-999e-a4dcdd78b873")
 		)
 		(pin "10"
-			(uuid "4aef9a15-695c-4acc-9722-7d1944573b48")
+			(uuid "4aef9a15-695c-4acc-9722-7d1944573b49")
 		)
 		(pin "15"
-			(uuid "e74aec8f-927e-474f-a1fc-d9b15b084500")
+			(uuid "e74aec8f-927e-474f-a1fc-d9b15b084501")
 		)
 		(pin "3"
-			(uuid "c3ee1139-5f93-427e-b1ed-3e6f68f117ff")
+			(uuid "c3ee1139-5f93-427e-b1ed-3e6f68f11800")
 		)
 		(pin "11"
-			(uuid "874dbc21-45df-4129-be9d-3564005660b3")
+			(uuid "874dbc21-45df-4129-be9d-3564005660b4")
 		)
 		(pin "12"
-			(uuid "5d9e3cae-c3c9-419b-b8a4-2dd1db1b316f")
+			(uuid "5d9e3cae-c3c9-419b-b8a4-2dd1db1b3170")
 		)
 		(pin "7"
-			(uuid "024b71f2-12f0-42cd-b5b9-5e1dbc16a32c")
+			(uuid "024b71f2-12f0-42cd-b5b9-5e1dbc16a32d")
 		)
 		(pin "9"
-			(uuid "de1aa738-a1e1-4341-868e-b30e11bcf004")
+			(uuid "de1aa738-a1e1-4341-868e-b30e11bcf005")
 		)
 		(pin "5"
-			(uuid "b8ddf778-ba43-40bf-b18f-0aaf643d5020")
+			(uuid "b8ddf778-ba43-40bf-b18f-0aaf643d5021")
 		)
 		(pin "4"
-			(uuid "ea2f1cd3-55ee-42fc-be5c-db1116007d73")
+			(uuid "ea2f1cd3-55ee-42fc-be5c-db1116007d74")
 		)
 		(pin "6"
-			(uuid "776e78b0-bbfc-45e8-8121-26843b4d8c41")
+			(uuid "776e78b0-bbfc-45e8-8121-26843b4d8c42")
 		)
 		(pin "1"
-			(uuid "65873047-30b1-40c6-9db2-b558e73abca5")
+			(uuid "65873047-30b1-40c6-9db2-b558e73abca6")
 		)
 		(pin "14"
-			(uuid "3baf26c5-60f5-4d28-abba-39f940723143")
+			(uuid "3baf26c5-60f5-4d28-abba-39f940723144")
 		)
 		(pin "13"
-			(uuid "669ad106-aeab-491f-83f9-792fcc6d909c")
+			(uuid "669ad106-aeab-491f-83f9-792fcc6d909d")
 		)
 		(pin "16"
-			(uuid "56a90683-bc5a-4bbb-b18f-a2f52b9a2438")
+			(uuid "56a90683-bc5a-4bbb-b18f-a2f52b9a2439")
 		)
 		(pin "2"
-			(uuid "0f4df7fb-8f57-47a5-9635-f952ef2b2ba4")
+			(uuid "0f4df7fb-8f57-47a5-9635-f952ef2b2ba5")
 		)
 		(instances
 			(project ""
@@ -10011,7 +12851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
+		(property "Footprint" "pedale:IDC-Header_2x08_P2.54mm_Vertical"
 			(at 88.9 137.16 0)
 			(effects
 				(font
@@ -10039,52 +12879,52 @@
 			)
 		)
 		(pin "8"
-			(uuid "11c46475-e4db-40fc-999e-a4dcdd78b872")
+			(uuid "11c46475-e4db-40fc-999e-a4dcdd78b874")
 		)
 		(pin "10"
-			(uuid "4aef9a15-695c-4acc-9722-7d1944573b48")
+			(uuid "4aef9a15-695c-4acc-9722-7d1944573b4a")
 		)
 		(pin "15"
-			(uuid "e74aec8f-927e-474f-a1fc-d9b15b084500")
+			(uuid "e74aec8f-927e-474f-a1fc-d9b15b084502")
 		)
 		(pin "3"
-			(uuid "c3ee1139-5f93-427e-b1ed-3e6f68f117ff")
+			(uuid "c3ee1139-5f93-427e-b1ed-3e6f68f11801")
 		)
 		(pin "11"
-			(uuid "874dbc21-45df-4129-be9d-3564005660b3")
+			(uuid "874dbc21-45df-4129-be9d-3564005660b5")
 		)
 		(pin "12"
-			(uuid "5d9e3cae-c3c9-419b-b8a4-2dd1db1b316f")
+			(uuid "5d9e3cae-c3c9-419b-b8a4-2dd1db1b3171")
 		)
 		(pin "7"
-			(uuid "024b71f2-12f0-42cd-b5b9-5e1dbc16a32c")
+			(uuid "024b71f2-12f0-42cd-b5b9-5e1dbc16a32e")
 		)
 		(pin "9"
-			(uuid "de1aa738-a1e1-4341-868e-b30e11bcf004")
+			(uuid "de1aa738-a1e1-4341-868e-b30e11bcf006")
 		)
 		(pin "5"
-			(uuid "b8ddf778-ba43-40bf-b18f-0aaf643d5020")
+			(uuid "b8ddf778-ba43-40bf-b18f-0aaf643d5022")
 		)
 		(pin "4"
-			(uuid "ea2f1cd3-55ee-42fc-be5c-db1116007d73")
+			(uuid "ea2f1cd3-55ee-42fc-be5c-db1116007d75")
 		)
 		(pin "6"
-			(uuid "776e78b0-bbfc-45e8-8121-26843b4d8c41")
+			(uuid "776e78b0-bbfc-45e8-8121-26843b4d8c43")
 		)
 		(pin "1"
-			(uuid "65873047-30b1-40c6-9db2-b558e73abca5")
+			(uuid "65873047-30b1-40c6-9db2-b558e73abca7")
 		)
 		(pin "14"
-			(uuid "3baf26c5-60f5-4d28-abba-39f940723143")
+			(uuid "3baf26c5-60f5-4d28-abba-39f940723145")
 		)
 		(pin "13"
-			(uuid "669ad106-aeab-491f-83f9-792fcc6d909c")
+			(uuid "669ad106-aeab-491f-83f9-792fcc6d909e")
 		)
 		(pin "16"
-			(uuid "56a90683-bc5a-4bbb-b18f-a2f52b9a2438")
+			(uuid "56a90683-bc5a-4bbb-b18f-a2f52b9a243a")
 		)
 		(pin "2"
-			(uuid "0f4df7fb-8f57-47a5-9635-f952ef2b2ba4")
+			(uuid "0f4df7fb-8f57-47a5-9635-f952ef2b2ba6")
 		)
 		(instances
 			(project ""
@@ -10172,6 +13012,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_21")
 		(lib_id "Simulation_SPICE:0")
 		(at 252.73 144.78 0)
 		(mirror y)
@@ -10237,6 +13078,7 @@
 		)
 	)
 	(symbol
+		(lib_name "BC817_1")
 		(lib_id "Transistor_BJT:BC817")
 		(at 142.24 55.88 0)
 		(unit 1)
@@ -10566,70 +13408,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Graphic:Logo_Open_Hardware_Small")
-		(at 273.05 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4cda1ac2-cf89-4030-a0ca-68e3854000e7")
-		(property "Reference" "SIM1"
-			(at 273.05 150.495 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "Logo_Open_Hardware_Small"
-			(at 273.05 163.195 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Symbol:OSHW-Logo2_7.3x6mm_SilkScreen"
-			(at 273.05 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 273.05 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Open Hardware logo, small"
-			(at 273.05 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "tube_screamer"
-				(path "/e0801131-6974-42d8-8070-4ed960891aa7"
-					(reference "SIM1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
+		(lib_name "0_11")
 		(lib_id "Simulation_SPICE:0")
 		(at 63.5 68.58 0)
 		(unit 1)
@@ -11186,7 +13965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
+		(property "Footprint" "pedale:IDC-Header_2x08_P2.54mm_Vertical"
 			(at 208.28 52.07 0)
 			(effects
 				(font
@@ -11217,22 +13996,22 @@
 			(uuid "a6d6c805-75fc-4aa4-8984-a0390cd43e9d")
 		)
 		(pin "1"
-			(uuid "642a31f6-5931-4629-bf28-f3cc23ac90ab")
+			(uuid "642a31f6-5931-4629-bf28-f3cc23ac90ac")
 		)
 		(pin "8"
-			(uuid "7263ee38-a7ad-413d-84a4-508c15a10f93")
+			(uuid "7263ee38-a7ad-413d-84a4-508c15a10f94")
 		)
 		(pin "13"
-			(uuid "ee7db142-ff4e-482f-b464-f20280efadb8")
+			(uuid "ee7db142-ff4e-482f-b464-f20280efadb9")
 		)
 		(pin "10"
-			(uuid "2d90d543-df2a-4ebb-8475-a7c76f1a1c1c")
+			(uuid "2d90d543-df2a-4ebb-8475-a7c76f1a1c1d")
 		)
 		(pin "4"
 			(uuid "179ba0a2-61e4-4582-9070-198c61c06bde")
 		)
 		(pin "3"
-			(uuid "4ad86c8b-e3d8-4cb8-9091-d75202de17c8")
+			(uuid "4ad86c8b-e3d8-4cb8-9091-d75202de17c9")
 		)
 		(pin "16"
 			(uuid "14adc97c-6e8e-400c-86dc-77423ee3c482")
@@ -11244,22 +14023,22 @@
 			(uuid "7b2af7f5-c1a3-4136-8cd9-e66f1af0a5ed")
 		)
 		(pin "9"
-			(uuid "4bfe3273-d5ff-43e1-bfa5-d2bd595991a2")
+			(uuid "4bfe3273-d5ff-43e1-bfa5-d2bd595991a3")
 		)
 		(pin "7"
-			(uuid "a4f83c0b-a718-408c-a48d-a9b55684b3dd")
+			(uuid "a4f83c0b-a718-408c-a48d-a9b55684b3de")
 		)
 		(pin "11"
-			(uuid "c0dc282c-088c-4f19-8bd8-e83b560fb994")
+			(uuid "c0dc282c-088c-4f19-8bd8-e83b560fb995")
 		)
 		(pin "15"
-			(uuid "e0d01856-8ba7-4d63-bdf3-b46418e3b9cb")
+			(uuid "e0d01856-8ba7-4d63-bdf3-b46418e3b9cc")
 		)
 		(pin "6"
 			(uuid "58aabcaa-5d67-4131-bda7-8010b20151e2")
 		)
 		(pin "5"
-			(uuid "26593db5-5822-46b4-9b89-d5d3bf6a8b3f")
+			(uuid "26593db5-5822-46b4-9b89-d5d3bf6a8b40")
 		)
 		(instances
 			(project "boss_DS1"
@@ -11478,6 +14257,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_1")
 		(lib_id "Mechanical:MountingHole")
 		(at 222.25 162.56 0)
 		(unit 1)
@@ -11923,6 +14703,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_4")
 		(lib_id "Mechanical:MountingHole")
 		(at 200.66 157.48 0)
 		(unit 1)
@@ -12219,6 +15000,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_1")
 		(lib_id "Simulation_SPICE:0")
 		(at 77.47 140.97 0)
 		(unit 1)
@@ -12283,6 +15065,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_19")
 		(lib_id "Simulation_SPICE:0")
 		(at 71.12 140.97 0)
 		(unit 1)
@@ -12347,6 +15130,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_15")
 		(lib_id "Simulation_SPICE:0")
 		(at 245.11 77.47 0)
 		(unit 1)
@@ -12571,6 +15355,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_18")
 		(lib_id "Simulation_SPICE:0")
 		(at 240.03 144.78 0)
 		(unit 1)
@@ -12715,6 +15500,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_3")
 		(lib_id "Mechanical:MountingHole")
 		(at 181.61 157.48 0)
 		(unit 1)
@@ -12779,6 +15565,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_5")
 		(lib_id "Simulation_SPICE:0")
 		(at 128.27 75.565 0)
 		(unit 1)
@@ -12995,6 +15782,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_9")
 		(lib_id "Simulation_SPICE:0")
 		(at 30.48 140.97 0)
 		(unit 1)
@@ -13235,6 +16023,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_16")
 		(lib_id "Simulation_SPICE:0")
 		(at 93.98 173.99 270)
 		(unit 1)
@@ -13637,6 +16426,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_7")
 		(lib_id "Simulation_SPICE:0")
 		(at 142.24 195.58 0)
 		(unit 1)
@@ -13702,6 +16492,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_2")
 		(lib_id "Mechanical:MountingHole")
 		(at 200.66 162.56 0)
 		(unit 1)
@@ -13918,6 +16709,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_8")
 		(lib_id "Simulation_SPICE:0")
 		(at 251.46 121.92 0)
 		(unit 1)
@@ -14008,7 +16800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
+		(property "Footprint" "pedale:IDC-Header_2x08_P2.54mm_Vertical"
 			(at 135.89 119.38 0)
 			(effects
 				(font
@@ -14036,34 +16828,34 @@
 			)
 		)
 		(pin "14"
-			(uuid "98d0747c-69a8-45ae-a287-46b8b35f1f4a")
+			(uuid "98d0747c-69a8-45ae-a287-46b8b35f1f4b")
 		)
 		(pin "1"
-			(uuid "642a31f6-5931-4629-bf28-f3cc23ac90ab")
+			(uuid "642a31f6-5931-4629-bf28-f3cc23ac90ad")
 		)
 		(pin "8"
-			(uuid "7263ee38-a7ad-413d-84a4-508c15a10f93")
+			(uuid "7263ee38-a7ad-413d-84a4-508c15a10f95")
 		)
 		(pin "13"
-			(uuid "ee7db142-ff4e-482f-b464-f20280efadb8")
+			(uuid "ee7db142-ff4e-482f-b464-f20280efadba")
 		)
 		(pin "10"
-			(uuid "2d90d543-df2a-4ebb-8475-a7c76f1a1c1c")
+			(uuid "2d90d543-df2a-4ebb-8475-a7c76f1a1c1e")
 		)
 		(pin "4"
-			(uuid "179ba0a2-61e4-4582-9070-198c61c06bde")
+			(uuid "179ba0a2-61e4-4582-9070-198c61c06bdf")
 		)
 		(pin "3"
-			(uuid "4ad86c8b-e3d8-4cb8-9091-d75202de17c8")
+			(uuid "4ad86c8b-e3d8-4cb8-9091-d75202de17ca")
 		)
 		(pin "16"
-			(uuid "28940a60-8e5b-4d25-ba67-0ad933d875a7")
+			(uuid "28940a60-8e5b-4d25-ba67-0ad933d875a8")
 		)
 		(pin "2"
-			(uuid "7f5a55c4-ace2-4c9d-bae1-e43d4b8059e2")
+			(uuid "7f5a55c4-ace2-4c9d-bae1-e43d4b8059e3")
 		)
 		(pin "12"
-			(uuid "c6aa3329-f5e3-4a38-9418-e500b437588f")
+			(uuid "c6aa3329-f5e3-4a38-9418-e500b4375890")
 		)
 		(pin "9"
 			(uuid "7fbcf246-f63b-4cc4-a2b8-19fcc85b2d21")
@@ -14072,13 +16864,13 @@
 			(uuid "abfb01d8-a4c6-4f11-aab3-40ac0b50e5c3")
 		)
 		(pin "11"
-			(uuid "c0dc282c-088c-4f19-8bd8-e83b560fb994")
+			(uuid "c0dc282c-088c-4f19-8bd8-e83b560fb996")
 		)
 		(pin "15"
-			(uuid "e0d01856-8ba7-4d63-bdf3-b46418e3b9cb")
+			(uuid "e0d01856-8ba7-4d63-bdf3-b46418e3b9cd")
 		)
 		(pin "6"
-			(uuid "58aabcaa-5d67-4131-bda7-8010b20151e2")
+			(uuid "58aabcaa-5d67-4131-bda7-8010b20151e3")
 		)
 		(pin "5"
 			(uuid "9354f183-7f14-470b-9d82-bd08f0d1ef5b")
@@ -14548,6 +17340,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_2")
 		(lib_id "Simulation_SPICE:0")
 		(at 144.78 75.565 0)
 		(unit 1)
@@ -14856,6 +17649,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_17")
 		(lib_id "Simulation_SPICE:0")
 		(at 241.3 121.92 0)
 		(unit 1)
@@ -15074,6 +17868,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_4")
 		(lib_id "Simulation_SPICE:0")
 		(at 60.96 140.97 0)
 		(unit 1)
@@ -15139,6 +17934,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_20")
 		(lib_id "Simulation_SPICE:0")
 		(at 205.74 144.78 0)
 		(unit 1)
@@ -15540,6 +18336,7 @@
 		)
 	)
 	(symbol
+		(lib_name "0_10")
 		(lib_id "Simulation_SPICE:0")
 		(at 31.75 63.5 0)
 		(unit 1)
@@ -15793,7 +18590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x08_P2.54mm_Vertical"
+		(property "Footprint" "pedale:IDC-Header_2x08_P2.54mm_Vertical"
 			(at 167.64 181.61 0)
 			(effects
 				(font
@@ -15821,52 +18618,52 @@
 			)
 		)
 		(pin "8"
-			(uuid "11c46475-e4db-40fc-999e-a4dcdd78b872")
+			(uuid "11c46475-e4db-40fc-999e-a4dcdd78b875")
 		)
 		(pin "10"
-			(uuid "4aef9a15-695c-4acc-9722-7d1944573b48")
+			(uuid "4aef9a15-695c-4acc-9722-7d1944573b4b")
 		)
 		(pin "15"
-			(uuid "e74aec8f-927e-474f-a1fc-d9b15b084500")
+			(uuid "e74aec8f-927e-474f-a1fc-d9b15b084503")
 		)
 		(pin "3"
-			(uuid "c3ee1139-5f93-427e-b1ed-3e6f68f117ff")
+			(uuid "c3ee1139-5f93-427e-b1ed-3e6f68f11802")
 		)
 		(pin "11"
-			(uuid "874dbc21-45df-4129-be9d-3564005660b3")
+			(uuid "874dbc21-45df-4129-be9d-3564005660b6")
 		)
 		(pin "12"
-			(uuid "5d9e3cae-c3c9-419b-b8a4-2dd1db1b316f")
+			(uuid "5d9e3cae-c3c9-419b-b8a4-2dd1db1b3172")
 		)
 		(pin "7"
-			(uuid "024b71f2-12f0-42cd-b5b9-5e1dbc16a32c")
+			(uuid "024b71f2-12f0-42cd-b5b9-5e1dbc16a32f")
 		)
 		(pin "9"
-			(uuid "de1aa738-a1e1-4341-868e-b30e11bcf004")
+			(uuid "de1aa738-a1e1-4341-868e-b30e11bcf007")
 		)
 		(pin "5"
-			(uuid "b8ddf778-ba43-40bf-b18f-0aaf643d5020")
+			(uuid "b8ddf778-ba43-40bf-b18f-0aaf643d5023")
 		)
 		(pin "4"
-			(uuid "ea2f1cd3-55ee-42fc-be5c-db1116007d73")
+			(uuid "ea2f1cd3-55ee-42fc-be5c-db1116007d76")
 		)
 		(pin "6"
-			(uuid "776e78b0-bbfc-45e8-8121-26843b4d8c41")
+			(uuid "776e78b0-bbfc-45e8-8121-26843b4d8c44")
 		)
 		(pin "1"
-			(uuid "65873047-30b1-40c6-9db2-b558e73abca5")
+			(uuid "65873047-30b1-40c6-9db2-b558e73abca8")
 		)
 		(pin "14"
-			(uuid "3baf26c5-60f5-4d28-abba-39f940723143")
+			(uuid "3baf26c5-60f5-4d28-abba-39f940723146")
 		)
 		(pin "13"
-			(uuid "669ad106-aeab-491f-83f9-792fcc6d909c")
+			(uuid "669ad106-aeab-491f-83f9-792fcc6d909f")
 		)
 		(pin "16"
-			(uuid "56a90683-bc5a-4bbb-b18f-a2f52b9a2438")
+			(uuid "56a90683-bc5a-4bbb-b18f-a2f52b9a243b")
 		)
 		(pin "2"
-			(uuid "0f4df7fb-8f57-47a5-9635-f952ef2b2ba4")
+			(uuid "0f4df7fb-8f57-47a5-9635-f952ef2b2ba7")
 		)
 		(instances
 			(project ""
