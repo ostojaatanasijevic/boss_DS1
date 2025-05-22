@@ -1343,6 +1343,16 @@
 		)
 		(uuid "1cd5493c-e13f-40f8-9204-86e25a6fe065")
 	)
+	(text "checked\n"
+		(exclude_from_sim no)
+		(at 70.358 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4e98772b-e2de-40c1-9e35-e7d33ea2f1dc")
+	)
 	(text "LED holes\n"
 		(exclude_from_sim no)
 		(at 30.861 99.314 0)
