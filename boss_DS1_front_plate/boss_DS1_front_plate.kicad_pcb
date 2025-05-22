@@ -2397,6 +2397,7 @@
 		(property "Reference" "J1"
 			(at 1.27 6.1 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "fbd39a3c-c4fe-4044-9245-ff0bd821fbc7")
 			(effects
 				(font
@@ -3694,6 +3695,42 @@
 					(xy 95.753384 66.68125) (xy 95.769705 66.546129) (xy 95.811036 66.463479) (xy 95.873384 66.416454)
 				)
 			)
+		)
+	)
+	(gr_text "100 kOhm lin\n"
+		(at 94.2 88.4 0)
+		(layer "B.SilkS")
+		(uuid "2531a2fd-5a57-4388-899f-04ca3829886c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "100 kOhm lin\n"
+		(at 118.2 83.1 0)
+		(layer "B.SilkS")
+		(uuid "6b13414e-d0db-42e0-945c-ebd5a7411c74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "20 kOhm lin\n"
+		(at 73 83 0)
+		(layer "B.SilkS")
+		(uuid "f3e72fcc-8af8-4fe9-a728-5f5a65926c47")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(segment
