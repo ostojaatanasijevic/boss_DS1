@@ -118,9 +118,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerbers/")
 		)
 	)
 	(net 0 "")
@@ -13224,6 +13224,7 @@
 		(property "Reference" "J1"
 			(at 1.27 -6.1 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e63d196b-2ac9-4fa8-9808-b00e901f8253")
 			(effects
 				(font
